@@ -11,6 +11,10 @@ pyperclip
 requests
 json
 
+Here is an example for the question: what came first? the chicken or the egg?
+
+![perper output](perper_example.png "sample answer")
+
 I've used Mac Automator to create an application from the script, so I can just run it from anywhere or assign a shortcut to it. 
 
 Enjoy
