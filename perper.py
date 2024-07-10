@@ -77,4 +77,4 @@ def main():
     sys.exit(app.exec())
 
 if __name__ == "__main__":
-    main()%                                                                     roy.adiel@vsap-mac-CJ74T196PV Misc % cat perper2.py
+    main()%                                                                
